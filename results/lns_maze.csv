@@ -1,0 +1,3 @@
+algorithm,w,map,scen,k,success,status,soc,makespan,runtime_ms,hl_expansions,ll_expansions,ll_searches
+CARBS(w=1.2),1.20,maze-32-32-4,maze-32-32-4-even-1.scen,100,false,TIMEOUT,-1,-1,30000,1610,10306863,2944
+CARBS(w=1.2),1.20,maze-32-32-4,maze-32-32-4-even-1.scen,200,false,TIMEOUT,-1,-1,30000,1957,6188889,3746

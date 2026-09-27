@@ -1,0 +1,17 @@
+algorithm,w,map,scen,k,success,status,soc,makespan,runtime_ms,hl_expansions,ll_expansions,ll_searches
+CARBS(w=1.1),1.10,maze-32-32-4,maze-32-32-4-even-1.scen,40,true,SOLVED,1785,91,172,26,27222,88
+CARBS(w=1.1),1.10,maze-32-32-4,maze-32-32-4-even-1.scen,50,true,SOLVED,2407,92,366,45,136958,138
+CARBS(w=1.1),1.10,maze-32-32-4,maze-32-32-4-even-1.scen,75,false,TIMEOUT,-1,-1,20000,1737,9709893,3408
+CARBS(w=1.1),1.10,maze-32-32-4,maze-32-32-4-even-1.scen,100,false,TIMEOUT,-1,-1,20000,2176,7625232,4072
+CARBS(w=1.1),1.10,maze-32-32-4,maze-32-32-4-even-2.scen,40,true,SOLVED,1970,90,1394,504,915766,1030
+CARBS(w=1.1),1.10,maze-32-32-4,maze-32-32-4-even-2.scen,50,false,TIMEOUT,-1,-1,20000,4406,11125925,8201
+CARBS(w=1.1),1.10,maze-32-32-4,maze-32-32-4-even-2.scen,75,false,TIMEOUT,-1,-1,20000,2785,8942033,5437
+CARBS(w=1.1),1.10,maze-32-32-4,maze-32-32-4-even-2.scen,100,false,TIMEOUT,-1,-1,20000,2564,7114045,4870
+CARBS(w=1.1),1.10,room-32-32-4,room-32-32-4-even-1.scen,40,true,SOLVED,1139,56,54,36,27065,106
+CARBS(w=1.1),1.10,room-32-32-4,room-32-32-4-even-1.scen,50,true,SOLVED,1466,57,101,61,46123,158
+CARBS(w=1.1),1.10,room-32-32-4,room-32-32-4-even-1.scen,75,false,TIMEOUT,-1,-1,20000,3406,11372418,5963
+CARBS(w=1.1),1.10,room-32-32-4,room-32-32-4-even-1.scen,100,false,TIMEOUT,-1,-1,20000,4667,9319783,9248
+CARBS(w=1.1),1.10,room-32-32-4,room-32-32-4-even-2.scen,40,true,SOLVED,1293,57,56,50,41266,136
+CARBS(w=1.1),1.10,room-32-32-4,room-32-32-4-even-2.scen,50,false,TIMEOUT,-1,-1,20000,4586,12775440,8410
+CARBS(w=1.1),1.10,room-32-32-4,room-32-32-4-even-2.scen,75,false,TIMEOUT,-1,-1,20000,5817,10137764,11539
+CARBS(w=1.1),1.10,room-32-32-4,room-32-32-4-even-2.scen,100,false,TIMEOUT,-1,-1,20001,6013,7954210,10959

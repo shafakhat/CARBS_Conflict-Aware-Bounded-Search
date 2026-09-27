@@ -1,0 +1,4 @@
+algorithm,w,map,scen,k,success,status,soc,makespan,runtime_ms,hl_expansions,ll_expansions,ll_searches
+CARBS(w=1.2),1.20,empty-32-32,empty-32-32-even-1.scen,100,true,SOLVED,2055,45,234,54,21955,182
+CARBS(w=1.2),1.20,empty-32-32,empty-32-32-even-1.scen,200,true,SOLVED,4199,47,852,150,63657,464
+CARBS(w=1.2),1.20,empty-32-32,empty-32-32-even-1.scen,400,false,TIMEOUT,-1,-1,30001,944,2275323,2067

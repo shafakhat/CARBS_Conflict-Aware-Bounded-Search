@@ -1,0 +1,2 @@
+algorithm,w,map,scen,k,success,status,soc,makespan,runtime_ms,hl_expansions,ll_expansions,ll_searches
+CARBS(w=1.2),1.20,random-32-32-20,random-32-32-20-even-1.scen,100,true,SOLVED,2549,52,292,66,58767,226

@@ -1,0 +1,4 @@
+algorithm,w,map,scen,k,success,status,soc,makespan,runtime_ms,hl_expansions,ll_expansions,ll_searches
+CARBS(w=1.2),1.20,warehouse-10-20-10-2-1,warehouse-10-20-10-2-1-even-1.scen,100,true,SOLVED,9830,199,4546,49,1067651,180
+CARBS(w=1.2),1.20,warehouse-10-20-10-2-1,warehouse-10-20-10-2-1-even-1.scen,200,true,SOLVED,20213,203,10246,130,2190829,428
+CARBS(w=1.2),1.20,warehouse-10-20-10-2-1,warehouse-10-20-10-2-1-even-1.scen,400,false,TIMEOUT,-1,-1,30000,285,4093369,951

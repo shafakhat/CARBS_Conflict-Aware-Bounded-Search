@@ -1,0 +1,34 @@
+# --- Java build artifacts ---
+*.class
+*.jar
+!lib/*.jar
+classes/
+bin/
+out/
+build/
+target/
+*.log
+hs_err_pid*
+replay_pid*
+
+# --- IDE / editor ---
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+.eclipse/
+*.swp
+*~
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Archives / scratch ---
+*.zip
+*.tar.gz
+*.bak
+scratch/
